@@ -1,0 +1,11 @@
+.list-space {
+    height: 100px;
+    background-color: whitesmoke;
+    border: 1px solid gray;
+}
+
+li.task {
+    background-color: cornsilk;
+    border: 1px solid #dac9e8;
+    margin: 7px;
+}
